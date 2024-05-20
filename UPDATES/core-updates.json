@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/releases",
+  "1.20.4": {
+    "1.0.0": "Internal release"
+  },
+  "promos": {
+    "1.20.4-latest": "1.0.0",
+    "1.20.4-recommended": "1.0.0"
+  }
+}
