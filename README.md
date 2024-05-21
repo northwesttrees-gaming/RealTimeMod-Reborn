@@ -1,5 +1,5 @@
 # 🕒 RealTimeMod-Reborn 🕤
-RealTimeMod Reborn is a Minecraft mod that converts the time of the computer hosting the world into game ticks. The time is adjusted every 15 minutes allowing for accurate time based on the host's time.
+RealTimeMod Reborn is a Minecraft mod that converts the time of the computer hosting the world into game ticks. The time is adjusted every 15 minutes allowing for accurate time calculation based on the host's time.
 # 📑 Mod Pages
 - [CurseForge.com]()
 - [MCreator.net]()
