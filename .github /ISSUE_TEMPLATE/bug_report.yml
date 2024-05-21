@@ -1,0 +1,46 @@
+name: RealTimeMod Reborn NeoForge - Bug Report
+description: Report a bug or issue!
+assignees: "NorthWestTreesgaming"
+title: "[Bug] <title>"
+labels: [New, Bug]
+body:
+- type: textarea
+  attributes:
+    label: Bug/Issue Description
+    description: |
+      - *(REQUIRED)*
+      Describe the issue or bug here. 
+      *Example:* Time does not update every 15 minutes.
+    placeholder: Describe the issue or bug here.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Mod Information
+    description: |
+      - *(REQUIRED)*
+      List the ADDON and BUILD here.
+      *Example:* RealTimeMod Reborn r1.0.0
+    placeholder: List the BUILD here.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Game Information
+    description: |
+      - *(REQUIRED)*
+      List the game information for NeoForge here.
+      *Example:* NeoForge 1.20.4
+    placeholder: List the game information for NeoForge here.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Crash Report and Attachments
+    description: |
+      - *(OPTIONAL)*
+      If the game crashes provide the crash report here.
+      You can also drop images to show visual issues.
+    placeholder: Drag and drop the files here.
+  validations:
+    required: false
