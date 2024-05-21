@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "CCTVCraft NeoForge - Wiki"
+    url: https://github.com/northwesttrees-gaming/CCTV-Craft-NeoForge/wiki
+    about: Official place for information about the mod!
+  - name: "CCTVCraft Forge - GitHub"
+    url: https://github.com/northwesttrees-gaming/CCTV-Craft-Forge
+    about: GitHub for the CCTVCraft Minecraft Forge version!
