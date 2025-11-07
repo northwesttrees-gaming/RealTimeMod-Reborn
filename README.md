@@ -10,4 +10,4 @@ RealTimeMod Reborn is a Minecraft mod that converts the time of the computer hos
 - ⁉️ [FAQ](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/wiki/FAQ)
 - ⭐ [Features](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/wiki/Features)
 - 🐞 [Bug Reports]()
-- 💡 [Feature Requests]()
+- 💡 [Feature Requests](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/discussions/categories/ideas)
