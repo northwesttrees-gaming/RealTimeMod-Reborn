@@ -1,13 +1,9 @@
-# 🕒 RealTimeMod-Reborn 🕤
-RealTimeMod Reborn is a Minecraft mod that converts the time of the computer hosting the world into game ticks. The time is adjusted every 15 minutes allowing for accurate time calculation based on the host's time.
-# 📑 Mod Pages
-- [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/real-time-mod)
-- [MCreator.net](https://mcreator.net/modification/82144/real-time-mod)
-- [GitHub.com](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn)
+![Logo](https://raw.githubusercontent.com/northwesttrees-gaming/RealTimeMod-Reborn/refs/heads/main/mod-pages/github/github_logo.png)
 
-# 😺 Quick Pages
-- 📚 [Wiki](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/wiki)
-- ⁉️ [FAQ](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/wiki/FAQ)
-- ⭐ [Features](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/wiki/Features)
-- 🐞 [Bug Reports]()
-- 💡 [Feature Requests](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/discussions/categories/ideas)
+# 🕒 Real Time Mod 🕤
+## About The Mod
+RealTimeMod syncs your in-game time with your computer’s real-world clock—bringing a new layer of realism to your gameplay. But it doesn’t stop there! The mod now adds dynamic temperature, weather forecasting, and moon phase adjustments to enhance your survival experience. It’s highly customizable, lightweight, and easy to use, giving you full control over how immersive your world feels.
+
+## Download Sites
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/real-time-mod)
+- [MCreator](https://mcreator.net/modification/82144/real-time-mod)
