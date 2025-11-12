@@ -3,9 +3,9 @@ contact_links:
   - name: "Feature Request"
     url: https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/discussions/categories/ideas
     about: The official place to request a feature for the mod.
-  - name: "RealTimeMod 2 - Wiki"
+  - name: "Official Wiki"
     url: https://github.com/northwesttrees-gaming/RealTimeMod-Reborn/wiki
     about: The official place for information about the mod!
-  - name: "RealTimeMod Forge - GitHub"
+  - name: "RealTimeMod Forge GitHub"
     url: https://github.com/northwesttrees-gaming/Real-Time-Mod
     about: The GitHub for the old Minecraft Forge version of Real Time Mod!
